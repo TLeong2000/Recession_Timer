@@ -5,6 +5,9 @@ License: GNU General Public License v3.0
 
 Quandl and urlread2 are property of their respectful copyright owners.
 
+### Disclaimer
+None of the information within this program can legally constitute a recommendation to buy or sell any security, nor be a substitute for professional investment advice. Acting on this information on your own account(s) may result in loss.
+
 ## Installation
 Download the m file into a directory of your choice. If the directory isn't already on MATLAB's search path, then add the directory by going into file >> Set Path... within the home tab of MATLAB. 
 
