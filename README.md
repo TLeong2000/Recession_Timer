@@ -21,8 +21,8 @@ Once you have a Quandl API key, run the file in the MATLAB environment. You will
 
 Here is an example of the recession indicator graph through August 1st, 2019:
 
-[[https://github.com/TLeong2000/Recession_Timer/blob/master/%2BRecession_Timer/Example.png]]
+![Image](https://github.com/TLeong2000/Recession_Timer/blob/master/%2BRecession_Timer/Example.png)
 
 To demonstrate the usefulness of this indicator in action, even in this stage of development, here is an example of what one's portfolio value would be if one were to buy-and-hold only when there is not a recession and then switching over to gold during a recession vs. buy-and-holding the whole time, starting from August 16th, 1971:
 
-[[https://github.com/TLeong2000/Recession_Timer/blob/master/%2BRecession_Timer/ExampleSwitching.png]]
+![Image](https://github.com/TLeong2000/Recession_Timer/blob/master/%2BRecession_Timer/ExampleSwitching.png)
