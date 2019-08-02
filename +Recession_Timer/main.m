@@ -1,8 +1,5 @@
 %% Recession Timer Main
 
-% P.S: Quandl key = x_k3y2rAATUR-LzMrAyH
-% Delete before uploading to GitHub
-
 clc
 clearvars
 close all
