@@ -25,4 +25,4 @@ Here is an example of the recession indicator graph through August 1st, 2019:
 
 To demonstrate the usefulness of this indicator in action, even in this stage of development, here is an example of what one's portfolio value would be if one were to buy-and-hold only when there is not a recession and then switching over to gold during a recession vs. buy-and-holding the whole time, starting from August 16th, 1971 using a logarithmic scale graph:
 
-![Image](https://github.com/TLeong2000/Recession_Timer/blob/master/%2BRecession_Timer/ExampleSwitching.png)
+![Image](https://github.com/TLeong2000/Recession_Timer/blob/02a6c10ddcc14b120dbea17c22136c5b9087512a/%2BRecession_Timer/ExampleSwitching.png)
